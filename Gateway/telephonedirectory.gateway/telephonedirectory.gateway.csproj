@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>757f787b-9dfb-4728-b8a9-87e7b0725e13</UserSecretsId>
+		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+		<DockerfileContext>..\..</DockerfileContext>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.1" />
+		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+		<PackageReference Include="IdentityModel" Version="3.0.0" />
+		<PackageReference Include="MMLib.SwaggerForOcelot" Version="4.7.0" />
+		<PackageReference Include="Ocelot" Version="17.0.0" />
+		<PackageReference Include="Ocelot.Provider.Consul" Version="17.0.0" />
+	</ItemGroup>
+</Project>

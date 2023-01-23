@@ -25,6 +25,15 @@ namespace contact.application.Handlers.ContactInfos.Commands
             public async Task<ApiResponse<ContactInfoResponse>> Handle(UpdateContactInfosCommands request, CancellationToken cancellationToken)
             {
                 ApiResponse<ContactInfoResponse> result = new();
+                var chechInfoType = CheckInfoType().ContainsKey(request.InfoType);
+                if (!chechInfoType)
+                {
+                    result.code = 500;
+                    result.errors.Add("Invalid Info Type");
+                    result.success = new List<string>();
+
+                    return result;
+                }
                 var person = await _contactInfosRepository.GetByIdAsync(Guid.Parse(request.UUID));
                 if (person is null)
                 {
@@ -49,6 +58,16 @@ namespace contact.application.Handlers.ContactInfos.Commands
                 result.success = new List<string>();
 
                 return result;
+            }
+            private static Dictionary<int, string> CheckInfoType()
+            {
+                Dictionary<int, string> dict = new() {
+                    {1,"Telefon Numarası" },
+                    {2,"E-mail Adresi" },
+                    {3,"Konum" }
+                };
+
+                return dict;
             }
         }
     }

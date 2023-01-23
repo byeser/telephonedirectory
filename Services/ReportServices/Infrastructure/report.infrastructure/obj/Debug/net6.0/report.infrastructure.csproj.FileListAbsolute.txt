@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\bin\Debug\net6.0\report.infrastructure.deps.json
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\bin\Debug\net6.0\report.infrastructure.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\bin\Debug\net6.0\report.infrastructure.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\obj\Debug\net6.0\report.infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\obj\Debug\net6.0\report.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\obj\Debug\net6.0\report.infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\obj\Debug\net6.0\report.infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\obj\Debug\net6.0\report.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\obj\Debug\net6.0\report.infrastructure.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\obj\Debug\net6.0\refint\report.infrastructure.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\obj\Debug\net6.0\report.infrastructure.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.infrastructure\obj\Debug\net6.0\ref\report.infrastructure.dll

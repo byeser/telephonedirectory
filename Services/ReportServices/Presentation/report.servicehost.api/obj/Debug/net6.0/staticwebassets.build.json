@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "h33ExJNB7rDPtIE8YajWEHG9mlXbUVpjIHZA9ZlnBZo=",
+  "Source": "report.servicehost.api",
+  "BasePath": "_content/report.servicehost.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "report.servicehost.api\\wwwroot",
+      "Source": "report.servicehost.api",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\telephonedirectory\\Services\\ReportServices\\Presentation\\report.servicehost.api\\wwwroot\\",
+      "BasePath": "_content/report.servicehost.api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

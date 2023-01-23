@@ -54,15 +54,6 @@ builder.Services.AddSwaggerGen(c =>
             Url = new Uri("https://muhammeteser.com.tr"),
         }
     });
-    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
-    {
-        Name = "Authorization",
-        Type = SecuritySchemeType.ApiKey,
-        Scheme = "Bearer",
-        BearerFormat = "JWT",
-        In = ParameterLocation.Header,
-        Description = "Auth olmak için Bearer tokený burda kullanýnýz",
-    });
     //kod belgeleyici yolu
     var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
     var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);

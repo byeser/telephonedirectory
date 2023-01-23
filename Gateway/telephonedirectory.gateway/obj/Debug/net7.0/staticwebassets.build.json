@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jKIpW1v5DLIRdnIxp/dj9+U6Y/iCf+zZRrLRUIduarM=",
+  "Source": "telephonedirectory.gateway",
+  "BasePath": "_content/telephonedirectory.gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

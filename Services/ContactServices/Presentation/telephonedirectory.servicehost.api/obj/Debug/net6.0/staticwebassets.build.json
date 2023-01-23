@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Mughnh2XlaX3+Dv3zfC7G+x9L6/h91wO6/aAQV3yDQ4=",
+  "Source": "telephonedirectory.servicehost.api",
+  "BasePath": "_content/telephonedirectory.servicehost.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "telephonedirectory.servicehost.api\\wwwroot",
+      "Source": "telephonedirectory.servicehost.api",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\telephonedirectory\\Services\\ContactServices\\Presentation\\telephonedirectory.servicehost.api\\wwwroot\\",
+      "BasePath": "_content/telephonedirectory.servicehost.api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

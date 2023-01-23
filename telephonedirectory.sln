@@ -68,7 +68,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rabbitmq", "rabbitmq", "{F6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{2C2CF458-FD58-4F48-8613-F3E299164A7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus", "BuildingBlocks\EventBus\EventBus.csproj", "{D8B884CD-A6A9-403F-B875-6C6C800CB50F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBus", "BuildingBlocks\EventBus\EventBus.csproj", "{D8B884CD-A6A9-403F-B875-6C6C800CB50F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{CFDA3860-1713-467E-9D15-0BE0CA5FDC71}"
+	ProjectSection(SolutionItems) = preProject
+		..\Rise Rest full dökümanı1.0.docx = ..\Rise Rest full dökümanı1.0.docx
+		..\Rise Rest full dökümanı1.0.pdf = ..\Rise Rest full dökümanı1.0.pdf
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

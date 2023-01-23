@@ -14,8 +14,6 @@ namespace contact.persistence.Context
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
             AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
-            //AppContext.SetSwitch("Npgsql.DisableDateTimeInfinityConversions", true);
-
         }
         public DbSet<ContactInfo> ContactInfo { get; set; }
         public DbSet<Persons> Persons { get; set; } 

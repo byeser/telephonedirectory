@@ -1,3 +1,8 @@
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\bin\Debug\net6.0\report.persistence.deps.json
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\bin\Debug\net6.0\report.persistence.runtimeconfig.json
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\bin\Debug\net6.0\report.persistence.dll
@@ -6,14 +11,11 @@ C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infras
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\bin\Debug\net6.0\report.domain.dll
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\bin\Debug\net6.0\report.application.pdb
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\bin\Debug\net6.0\report.domain.pdb
-C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.csproj.AssemblyReference.cache
-C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.AssemblyInfoInputs.cache
-C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.AssemblyInfo.cs
-C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.csproj.CopyComplete
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.dll
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\refint\report.persistence.dll
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.pdb
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\report.persistence.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\obj\Debug\net6.0\ref\report.persistence.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\bin\Debug\net6.0\EventBus.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Infrastructure\report.persistence\bin\Debug\net6.0\EventBus.pdb

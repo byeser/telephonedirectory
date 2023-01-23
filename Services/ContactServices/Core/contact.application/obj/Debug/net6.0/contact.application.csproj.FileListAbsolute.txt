@@ -13,3 +13,5 @@ C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\refint\contact.application.dll
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\contact.application.pdb
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\ref\contact.application.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\bin\Debug\net6.0\EventBus.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\bin\Debug\net6.0\EventBus.pdb

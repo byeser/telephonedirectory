@@ -17,3 +17,5 @@ C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infra
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.persistence\obj\Debug\net6.0\contact.persistence.pdb
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.persistence\obj\Debug\net6.0\contact.persistence.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.persistence\obj\Debug\net6.0\ref\contact.persistence.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.persistence\bin\Debug\net6.0\EventBus.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.persistence\bin\Debug\net6.0\EventBus.pdb

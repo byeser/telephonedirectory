@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using MediatR;
-using Microsoft.EntityFrameworkCore.ChangeTracking.Internal;
 using contact.application.Handlers.ContactInfos.Dtos;
 using contact.application.Repositories;
 

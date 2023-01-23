@@ -45,6 +45,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "report.persistence", "Servi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "report.servicehost.api", "Services\ReportServices\Presentation\report.servicehost.api\report.servicehost.api.csproj", "{5B795B0D-BBD0-41F4-A81D-9CB4EC62D57B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docker-compose-files", "docker-compose-files", "{31CA4629-A136-4285-9589-D75BC11D21E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "consul", "consul", "{8003CD0F-DA40-4EF5-A5E4-0F4A72DF3D31}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose-files\consul\docker-compose.yml = docker-compose-files\consul\docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "postgres", "postgres", "{599393DC-6179-4559-B7A5-9FE2643DC40D}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose-files\postgres\docker-compose.yml = docker-compose-files\postgres\docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "db", "db", "{3313BE71-D07B-4B9B-A086-4A87877F1431}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "init.sql", "init.sql", "{5F86E3BD-3850-4B19-9CE0-7C6CA929465F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rabbitmq", "rabbitmq", "{F6BBCA8F-3278-45A1-868E-3446140F6966}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose-files\rabbitmq\docker-compose.yml = docker-compose-files\rabbitmq\docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{2C2CF458-FD58-4F48-8613-F3E299164A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus", "BuildingBlocks\EventBus\EventBus.csproj", "{D8B884CD-A6A9-403F-B875-6C6C800CB50F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +120,10 @@ Global
 		{5B795B0D-BBD0-41F4-A81D-9CB4EC62D57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B795B0D-BBD0-41F4-A81D-9CB4EC62D57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B795B0D-BBD0-41F4-A81D-9CB4EC62D57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B884CD-A6A9-403F-B875-6C6C800CB50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B884CD-A6A9-403F-B875-6C6C800CB50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B884CD-A6A9-403F-B875-6C6C800CB50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B884CD-A6A9-403F-B875-6C6C800CB50F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -119,6 +148,12 @@ Global
 		{0935E616-DC3E-48D2-9F00-C08716516763} = {39E379A6-A6D3-4D14-9E2A-A46B40A0E632}
 		{EEF4E9C6-F32A-481E-BD0A-59F88F51F1DF} = {39E379A6-A6D3-4D14-9E2A-A46B40A0E632}
 		{5B795B0D-BBD0-41F4-A81D-9CB4EC62D57B} = {240E0876-398B-439F-A8D3-1E1492483F5D}
+		{8003CD0F-DA40-4EF5-A5E4-0F4A72DF3D31} = {31CA4629-A136-4285-9589-D75BC11D21E8}
+		{599393DC-6179-4559-B7A5-9FE2643DC40D} = {31CA4629-A136-4285-9589-D75BC11D21E8}
+		{3313BE71-D07B-4B9B-A086-4A87877F1431} = {599393DC-6179-4559-B7A5-9FE2643DC40D}
+		{5F86E3BD-3850-4B19-9CE0-7C6CA929465F} = {3313BE71-D07B-4B9B-A086-4A87877F1431}
+		{F6BBCA8F-3278-45A1-868E-3446140F6966} = {31CA4629-A136-4285-9589-D75BC11D21E8}
+		{D8B884CD-A6A9-403F-B875-6C6C800CB50F} = {2C2CF458-FD58-4F48-8613-F3E299164A7F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BAD9C3B8-1429-47A1-A618-7DCF52C54BED}

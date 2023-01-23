@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\telephonedirectory.servicehost.api.props" />
-</Project>

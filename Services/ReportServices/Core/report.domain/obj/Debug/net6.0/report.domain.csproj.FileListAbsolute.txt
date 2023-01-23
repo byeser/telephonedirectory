@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\bin\Debug\net6.0\report.domain.deps.json
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\bin\Debug\net6.0\report.domain.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\bin\Debug\net6.0\report.domain.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\obj\Debug\net6.0\report.domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\obj\Debug\net6.0\report.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\obj\Debug\net6.0\report.domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\obj\Debug\net6.0\report.domain.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\obj\Debug\net6.0\report.domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\obj\Debug\net6.0\report.domain.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\obj\Debug\net6.0\refint\report.domain.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\obj\Debug\net6.0\report.domain.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ReportServices\Core\report.domain\obj\Debug\net6.0\ref\report.domain.dll

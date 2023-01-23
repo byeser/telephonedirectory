@@ -20,6 +20,15 @@
     },
     {
       "UseServiceDiscovery": true,
+      "ServiceName": "ContactService",
+      "DownstreamPathTemplate": "/api/v1/Reports/{everything}",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/services/Reports/{everything}",
+      "UpstreamHttpMethod": ["GET"],
+      "SwaggerKey": "contact"
+    },
+    {
+      "UseServiceDiscovery": true,
       "ServiceName": "ReportService",
       "DownstreamPathTemplate": "/api/v1/Report/{everything}",
       "DownstreamScheme": "http",

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\bin\Debug\net6.0\contact.domain.deps.json
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\bin\Debug\net6.0\contact.domain.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\bin\Debug\net6.0\contact.domain.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\obj\Debug\net6.0\contact.domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\obj\Debug\net6.0\contact.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\obj\Debug\net6.0\contact.domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\obj\Debug\net6.0\contact.domain.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\obj\Debug\net6.0\contact.domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\obj\Debug\net6.0\contact.domain.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\obj\Debug\net6.0\refint\contact.domain.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\obj\Debug\net6.0\contact.domain.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.domain\obj\Debug\net6.0\ref\contact.domain.dll

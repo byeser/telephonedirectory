@@ -3,9 +3,18 @@
     {
       "UseServiceDiscovery": true,
       "ServiceName": "ContactService",
-      "DownstreamPathTemplate": "/api/v1/Contact/{everything}",
+      "DownstreamPathTemplate": "/api/v1/Persons/{everything}",
       "DownstreamScheme": "http",
-      "UpstreamPathTemplate": "/services/Contact/{everything}",
+      "UpstreamPathTemplate": "/services/Persons/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "contact"
+    },
+    {
+      "UseServiceDiscovery": true,
+      "ServiceName": "ContactService",
+      "DownstreamPathTemplate": "/api/v1/Info/{everything}",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/services/Info/{everything}",
       "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
       "SwaggerKey": "contact"
     },
@@ -17,7 +26,7 @@
       "UpstreamPathTemplate": "/services/Report/{everything}",
       "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
       "SwaggerKey": "report"
-    } 
+    }
   ],
   "SwaggerEndPoints": [
     {

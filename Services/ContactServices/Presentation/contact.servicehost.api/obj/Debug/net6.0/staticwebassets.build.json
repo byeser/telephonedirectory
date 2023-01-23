@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "0v7RBKwTpn/kMAjbvNy0yOvBgDkdqJrNMdJof1TWoYI=",
+  "Source": "contact.servicehost.api",
+  "BasePath": "_content/contact.servicehost.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "contact.servicehost.api\\wwwroot",
+      "Source": "contact.servicehost.api",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\telephonedirectory\\Services\\ContactServices\\Presentation\\contact.servicehost.api\\wwwroot\\",
+      "BasePath": "_content/contact.servicehost.api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

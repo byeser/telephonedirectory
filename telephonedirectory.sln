@@ -19,15 +19,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{C3EFEEE9-FAF8-46B7-A625-D6898CFB9B85}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telephonedirectory.application", "Services\ContactServices\Core\telephonedirectory.application\telephonedirectory.application.csproj", "{B09E02F3-6F89-46EB-8BC6-A8892DC6D9AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telephonedirectory.application", "Services\ContactServices\Core\contact.application\contact.application.csproj", "{B09E02F3-6F89-46EB-8BC6-A8892DC6D9AD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telephonedirectory.domain", "Services\ContactServices\Core\telephonedirectory.domain\telephonedirectory.domain.csproj", "{5A478E66-8936-4779-B8D2-F89A2CD57B3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telephonedirectory.domain", "Services\ContactServices\Core\contact.domain\contact.domain.csproj", "{5A478E66-8936-4779-B8D2-F89A2CD57B3C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telephonedirectory.infrastructure", "Services\ContactServices\Infrastructure\telephonedirectory.infrastructure\telephonedirectory.infrastructure.csproj", "{4B11676D-63E7-4976-8C67-28CC01E4896E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telephonedirectory.infrastructure", "Services\ContactServices\Infrastructure\contact.infrastructure\contact.infrastructure.csproj", "{4B11676D-63E7-4976-8C67-28CC01E4896E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telephonedirectory.persistence", "Services\ContactServices\Infrastructure\telephonedirectory.persistence\telephonedirectory.persistence.csproj", "{C589420A-5CF7-4798-B105-84B65C5E5F6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telephonedirectory.persistence", "Services\ContactServices\Infrastructure\contact.persistence\contact.persistence.csproj", "{C589420A-5CF7-4798-B105-84B65C5E5F6C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telephonedirectory.servicehost.api", "Services\ContactServices\Presentation\telephonedirectory.servicehost.api\telephonedirectory.servicehost.api.csproj", "{3884ADC8-5E14-435F-B308-CDE740B16BEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telephonedirectory.servicehost.api", "Services\ContactServices\Presentation\contact.servicehost.api\contact.servicehost.api.csproj", "{3884ADC8-5E14-435F-B308-CDE740B16BEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

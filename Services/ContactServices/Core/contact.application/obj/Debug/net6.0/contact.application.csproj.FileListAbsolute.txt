@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\bin\Debug\net6.0\contact.application.deps.json
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\bin\Debug\net6.0\contact.application.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\bin\Debug\net6.0\contact.application.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\bin\Debug\net6.0\contact.domain.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\bin\Debug\net6.0\contact.domain.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\contact.application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\contact.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\contact.application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\contact.application.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\contact.application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\contact.application.csproj.CopyComplete
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\contact.application.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\refint\contact.application.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\contact.application.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Core\contact.application\obj\Debug\net6.0\ref\contact.application.dll

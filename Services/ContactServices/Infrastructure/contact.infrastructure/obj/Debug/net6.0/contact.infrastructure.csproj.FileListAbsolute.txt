@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\bin\Debug\net6.0\contact.infrastructure.deps.json
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\bin\Debug\net6.0\contact.infrastructure.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\bin\Debug\net6.0\contact.infrastructure.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\obj\Debug\net6.0\contact.infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\obj\Debug\net6.0\contact.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\obj\Debug\net6.0\contact.infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\obj\Debug\net6.0\contact.infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\obj\Debug\net6.0\contact.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\obj\Debug\net6.0\contact.infrastructure.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\obj\Debug\net6.0\refint\contact.infrastructure.dll
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\obj\Debug\net6.0\contact.infrastructure.pdb
+C:\Users\Administrator\Desktop\telephonedirectory\Services\ContactServices\Infrastructure\contact.infrastructure\obj\Debug\net6.0\ref\contact.infrastructure.dll
